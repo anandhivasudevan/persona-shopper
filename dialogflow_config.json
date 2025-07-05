@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "name": "Product Recommendation",
+      "trainingPhrases": ["Can you recommend something?", "What should I buy?"],
+      "responses": ["Sure! Here are some products you might like: $recommendations"]
+    },
+    {
+      "name": "Order Status",
+      "trainingPhrases": ["Where is my order?", "Track my delivery"],
+      "responses": ["Let me check your order status. Can I have your order ID?"]
+    }
+  ]
+}
