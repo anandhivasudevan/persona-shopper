@@ -154,9 +154,4 @@ Contributions are welcome! To get started:
 
 This project is open source. See the [LICENSE](LICENSE) file for details.
 
----
 
-
----
-
-> _Built with ❤️ to make shopping smarter, faster, and more personal._
